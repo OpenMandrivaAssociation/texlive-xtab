@@ -6,7 +6,7 @@
 # catalog-version 2.3f
 Name:		texlive-xtab
 Version:	2.3f
-Release:	3
+Release:	4
 Summary:	Break tables across pages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xtab
