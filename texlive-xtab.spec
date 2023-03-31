@@ -1,6 +1,6 @@
 Name:		texlive-xtab
 Version:	23347
-Release:	1
+Release:	2
 Summary:	Break tables across pages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xtab
