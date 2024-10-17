@@ -3,7 +3,7 @@ Version:	23347
 Release:	2
 Summary:	Break tables across pages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xtab
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xtab
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xtab.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xtab.doc.r%{version}.tar.xz
